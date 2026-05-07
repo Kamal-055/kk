@@ -42,16 +42,15 @@ Frontend Developer • AI/ML Learner • Ethical Hacking Enthusiast • Research
 ---
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,arduino,bootstrap,c,css,git,html,java,javascript,mongodb,mysql,nodejs,opencv,oracle,postman,python,react,sqlite,typescript" />
+<img src="https://skillicons.dev/icons?i=android,arduino,bootstrap,c,css,git,html,java,javascript,mongodb,mysql,nodejs,opencv,python,react,sqlite,typescript" />
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=hive,pandas,scikitlearn,seaborn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=hive,pandas,scikitlearn,seaborn,oracle,postman" />
 </p>
-
 # 🧠 Current Interests
 
 - 🤖 Artificial Intelligence & Machine Learning
